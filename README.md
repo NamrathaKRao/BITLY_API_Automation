@@ -25,7 +25,7 @@ List of Test cases:
 
 Steps to Run the Test Cases:
 1. Clone the repository :https://github.com/NamrathaKRao/BITLY_API_Automation.git
-2. Install the required modules by running : pip3 install -r requirements
+2. Install the required modules by running : pip3 install -r requirements.txt
 3. Move to BitlyAPI_Automation directory and run : pytest -s -v tests/ --html=report.html
 4. Test case report can be viewed by opening report.html file that gets generated once the test is run in any of the browsers
 5. Logs can be checked in the automation.log file that gets generated once the test is run 
