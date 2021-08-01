@@ -1,0 +1,104 @@
+{
+  "TS1": [
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "long_url": "https://kjkihihiuuuu.com",
+      "domain": "bit.ly",
+      "group_guid": "Bl7ta6eN9S2",
+      "title": "Bitly API Documentation",
+      "tags": "[ \"bitly\", \"api\" ]",
+      "deeplinks": "[]",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/bitlinks"
+    }
+  ],
+  "TS2": [
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "long_url": "https://kjkihihiuuuu.com",
+      "domain": "bi",
+      "group_guid": "Bl7ta6eN9S2",
+      "title": "Bitly API Documentation",
+      "tags": "[ \"bitly\", \"api\" ]",
+      "deeplinks": "[]",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/bitlinks"
+    },
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "long_url": "",
+      "domain": "bit.ly",
+      "group_guid": "Bl7ta6eN9S2",
+      "title": "Bitly API Documentation",
+      "tags": "[ \"bitly\", \"api\" ]",
+      "deeplinks": "[]",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/bitlinks"
+    }
+  ],
+  "TS3": [
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "long_url": "https://kjkihihiuuuu.com",
+      "domain": "bit.ly",
+      "group_guid": "Bl7ta6eN9S2",
+      "title": "Bitly API Documentation",
+      "tags": "[ \"bitly\", \"api\" ]",
+      "deeplinks": "[{ \"app_id\": \"com.bitly.app\", \"app_uri_path\": \"/store?id': '123456\", \"install_url\": \"https://play.google.com/store/apps/details?id=com.bitly.app','hl': 'en_US\", \"install_type\": \"promote_install\" } ]",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/bitlinks"
+    }
+  ],
+  "TS4": [
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "long_url": "https://kjkihihiuuuu.com",
+      "domain": "bit.ly",
+      "group_guid": "Bl7ta6eN",
+      "title": "Bitly API Documentation",
+      "tags": "[ \"bitly\", \"api\" ]",
+      "deeplinks": "[]",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/bitlinks"
+    },
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f1214",
+      "long_url": "https://kjkihihiuuuu.com",
+      "domain": "bit.ly",
+      "group_guid": "Bl7ta6eN9S2",
+      "title": "Bitly API Documentation",
+      "tags": "[ \"bitly\", \"api\" ]",
+      "deeplinks": "[]",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/bitlinks"
+    }
+  ],
+  "TS5": [
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "long_url": "https://kjkihihiuuuu.com",
+      "domain": "bit.ly",
+      "group_guid": "Bl7ta6eN9S2",
+      "title": "Bitly API Documentation",
+      "tags": "[ \"bitly\", \"api\" ]",
+      "deeplinks": "[]",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/b"
+    }
+  ],
+  "TS6": [
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "long_url": "https://kjkihihiuuuu.com",
+      "domain": "bit.ly",
+      "group_guid": "Bl7ta6eN9S2",
+      "title": "Bitly API Documentation",
+      "tags": "test",
+      "deeplinks": "[]",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/bitlinks"
+    },
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "long_url": "https://kjkihihiuuuu.com",
+      "domain": "bit.ly",
+      "group_guid": "Bl7ta6eN9S2",
+      "title": "Bitly API Documentation",
+      "tags": "[ \"bitly\", \"api\" ]",
+      "deeplinks": "test",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/bitlinks"
+    }
+  ]
+}

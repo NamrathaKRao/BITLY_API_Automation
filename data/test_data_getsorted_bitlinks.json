@@ -1,0 +1,110 @@
+{
+  "TS1": [
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "unit": "month",
+      "units": "10",
+      "unit_reference": "2021-09-15T15:04:05-0700",
+      "size": "10",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6eN9S2/bitlinks/clicks"
+    },
+     {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "unit": "",
+      "units": "",
+      "unit_reference": "",
+      "size": "",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6eN9S2/bitlinks/clicks"
+    }
+  ],
+  "TS2": [
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "unit": "time",
+      "units": "50",
+      "unit_reference": "2021-09-15T15:04:05-0700",
+      "size": "10",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6eN9S2/bitlinks/clicks"
+    },
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "unit": "month",
+      "units": "500",
+      "unit_reference": "2021-09-15T15:04:05-0700",
+      "size": "10",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6eN9S2/bitlinks/clicks"
+    },
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "unit": "month",
+      "units": "-20",
+      "unit_reference": "2021-09-15T15:04:05-0700",
+      "size": "10",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6eN9S2/bitlinks/clicks"
+    },
+
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "unit": "month",
+      "units": "50",
+      "unit_reference": "2021-15-09T15:04:05-0700",
+      "size": "10",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6eN9S2/bitlinks/clicks"
+    },
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "unit": "month",
+      "units": "10",
+      "unit_reference": "2021-09-15T15:04:05-0700",
+      "size": "10",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6eN9S2/bitlinks/clic"
+    }
+  ],
+  "TS3": [
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f",
+      "unit": "month",
+      "units": "10",
+      "unit_reference": "2021-09-15T15:04:05-0700",
+      "size": "10",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6eN9S2/bitlinks/clicks"
+    },
+     {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "unit": "",
+      "units": "",
+      "unit_reference": "",
+      "size": "",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6e/bitlinks/clicks"
+    }
+  ],
+  "TS4": [
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "unit": "month",
+      "units": "10",
+      "unit_reference": "2021-09-15T15:04:05-0700",
+      "size": "10",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/"
+    }
+    ],
+  "TS5": [
+    {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "unit": "month",
+      "units": "10",
+      "unit_reference": "2021-09-15T15:04:05-0700",
+      "size": "1177777777",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6eN9S2/bitlinks/clicks"
+    },
+     {
+      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "unit": "month",
+      "units": "10",
+      "unit_reference": "2006-09-15T15:04:05-0700",
+      "size": "10",
+      "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6eN9S2/bitlinks/clicks"
+    }
+
+    ]
+}
