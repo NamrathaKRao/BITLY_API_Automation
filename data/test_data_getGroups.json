@@ -1,7 +1,7 @@
 {
   "TS1": [
     {
-      "access_token": "aa5ed0d312af6c38117a29c4efd322f12147f8cc",
+      "access_token": access_token,
       "request_endpoint": "https://api-ssl.bitly.com/v4/groups/Bl7ta6eN9S2"
     }
   ],
